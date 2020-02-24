@@ -1,8 +1,9 @@
 import sys, os
 from webbot import Browser
+import getpass
 
 email=input("[🎉] Enter your Github Email Address: ")
-password=input("[🎉] Enter your GitHub password: ")
+password = getpass.getpass(prompt="[🎉] Enter your GitHub password: ") 
 username=input("[🎉] Enter your GitHub username: ")
 
 credentials = {
