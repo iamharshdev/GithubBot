@@ -18,7 +18,7 @@ git clone 'www.github.com/theuitown/GithubBot/' && cd GithubBot
 It will ask you for few things please do answer them.
 
 ## Credits😇
-Idea came into mind seeing GitBot by 
+Idea came into mind seeing GitBot by 😇 [Jonas Weimar](https://github.com/jonas-weimar)
 
 ## Contribution ❤️
 You Guys can also contribute o this bot if  know the way around git,python,selenium,bash.
