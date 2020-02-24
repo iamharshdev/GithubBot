@@ -10,8 +10,10 @@ cd $dirname
 printf '\n'
 # generate repo on github
 echo "[🎉] Generating git repo..."
-python3 /home/iamharsh/Projects/GithubBot/gitbot.py $dirname
+cd && python3 GithubBot/gitbot.py $dirname
 printf '\n'
+cd Projects
+cd $dirname
 # touch and write readme
 echo "[🎉] Writing Readme.md"
 touch Readme.md
