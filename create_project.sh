@@ -12,6 +12,7 @@ printf '\n'
 echo "[🎉] Generating git repo..."
 cd && python3 GithubBot/gitbot.py $dirname
 printf '\n'
+cd
 cd Projects
 cd $dirname
 # touch and write readme
