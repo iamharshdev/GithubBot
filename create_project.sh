@@ -30,5 +30,6 @@ git clean -f -d
 git push origin master
 
 echo '[🎉][🎉] You can now work on your project [🎉][🎉]'
+
 # Open Project in vscode
 code .

@@ -1,10 +1,14 @@
 import sys, os
 from webbot import Browser
 
+email=input("[🎉] Enter your Github Email Address: ")
+password=input("[🎉] Enter your GitHub password: ")
+username=input("[🎉] Enter your GitHub username: ")
+
 credentials = {
-	'mail': 'nitingoswami473@gmail.com',
-	'password': 'saymemyname1',
-	'username':'theuitown'
+	'mail': email,
+	'password': password,
+	'username':username
 }
 
 # log into github and create new repository
