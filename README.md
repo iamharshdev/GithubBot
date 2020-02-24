@@ -9,8 +9,10 @@ in vs code too 😅.
 
 ## How to use ?🤔
 Its pretty much simple to use.
-```git clone 'www.github.com/theuitown/GithubBot/' && cd GithubBot
+```
+git clone 'www.github.com/theuitown/GithubBot/' && cd GithubBot
 ./create_project.sh
+
 ```
 
 It will ask you for few things please do answer them.
